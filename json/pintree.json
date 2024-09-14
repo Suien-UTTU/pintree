@@ -6,6 +6,34 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1726282385697,
+        "title": "学习",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1726282378140,
+            "title": "My courses",
+            "icon": "https://logo.clearbit.com/learn.exeter.ac.uk",
+            "url": "https://learn.exeter.ac.uk/my/courses.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1724223996646,
+            "title": "Home Page - iExeter",
+            "icon": "https://logo.clearbit.com/i.exeter.ac.uk",
+            "url": "https://i.exeter.ac.uk/campusm/home#menu"
+          },
+          {
+            "type": "link",
+            "addDate": 1726282412277,
+            "title": "メール - Wang, Ruoqiang - Outlook",
+            "icon": "https://logo.clearbit.com/outlook.office.com",
+            "url": "https://outlook.office.com/mail/inbox"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1625050373648,
         "title": "暇つぶし",
         "children": [
@@ -104,6 +132,13 @@
                 "title": "#1 天幕のジャードゥーガル | Souffle（スーフル）",
                 "icon": "https://logo.clearbit.com/souffle.life",
                 "url": "https://souffle.life/manga/tenmaku-no-ja-dougal/20210925/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725762150504,
+                "title": "马上就会融化的冰太郎-马上就会融化的冰太郎漫画-马上就会融化的冰太郎在线漫画-动漫之家手机漫画",
+                "icon": "https://logo.clearbit.com/m.idmzj.com",
+                "url": "https://m.idmzj.com/info/61209.html"
               }
             ]
           },
@@ -1737,6 +1772,13 @@
             "title": "Printable Schedule Planner | Download free pdf files and manage your schedule on your note.",
             "icon": "https://logo.clearbit.com/psp.u1m.biz",
             "url": "https://psp.u1m.biz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726274889863,
+            "title": "Best Open Source Alternatives",
+            "icon": "https://logo.clearbit.com/osssoftware.org",
+            "url": "https://osssoftware.org/open-source-alternatives/"
           }
         ]
       },
@@ -2696,13 +2738,6 @@
             "title": "铅正在创作PlumbumUniverse世界观下的replay以及文字 | 爱发电",
             "icon": "https://logo.clearbit.com/afdian.com",
             "url": "https://afdian.com/a/PlumbumUniverse"
-          },
-          {
-            "type": "link",
-            "addDate": 1724223996646,
-            "title": "Home Page - iExeter",
-            "icon": "https://logo.clearbit.com/i.exeter.ac.uk",
-            "url": "https://i.exeter.ac.uk/campusm/home#menu"
           },
           {
             "type": "link",
