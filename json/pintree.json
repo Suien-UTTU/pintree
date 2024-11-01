@@ -267,6 +267,20 @@
             "title": "BBC iPlayer - Home",
             "icon": "https://logo.clearbit.com/www.bbc.co.uk",
             "url": "https://www.bbc.co.uk/iplayer"
+          },
+          {
+            "type": "link",
+            "addDate": 1730374593359,
+            "title": "Exeter City Council",
+            "icon": "https://logo.clearbit.com/exeter.gov.uk",
+            "url": "https://exeter.gov.uk/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730252271517,
+            "title": "Follow",
+            "icon": "https://logo.clearbit.com/follow.is",
+            "url": "https://follow.is/"
           }
         ]
       },
@@ -538,6 +552,13 @@
                 "title": "猿の夢",
                 "icon": "https://logo.clearbit.com/10460.sv05.novelgame.jp",
                 "url": "https://10460.sv05.novelgame.jp/vip/?title=%E7%8C%BF%E3%81%AE%E5%A4%A2&url=aHR0cHM6Ly9kZGRzZXhpbzFmNjRpLmNsb3VkZnJvbnQubmV0L2dhbWUvMTA0NjAvc2FydW5veXVtZS9pbmRleC5odG1sP3ZpcD0x"
+              },
+              {
+                "type": "link",
+                "addDate": 1730318680525,
+                "title": "ここがAno犬のハウス",
+                "icon": "https://logo.clearbit.com/wanwanplus.blog.fc2.com",
+                "url": "http://wanwanplus.blog.fc2.com/"
               }
             ]
           },
@@ -1338,6 +1359,13 @@
             "title": "グラブル他",
             "icon": "https://logo.clearbit.com/game.granbluefantasy.jp",
             "url": "http://game.granbluefantasy.jp/#mypage"
+          },
+          {
+            "type": "link",
+            "addDate": 1730239322109,
+            "title": "かんぱに☆ガールズ",
+            "icon": "https://logo.clearbit.com/game.kanpani-girls.com",
+            "url": "https://game.kanpani-girls.com/?utm_source=x&utm_medium=social&utm_campaign=kanpanigirls_sns_x_jp_en"
           }
         ]
       },
