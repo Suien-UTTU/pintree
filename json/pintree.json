@@ -323,6 +323,20 @@
             "title": "Diamine Inks - Fountain pen inks",
             "icon": "https://logo.clearbit.com/www.diamineinks.co.uk",
             "url": "https://www.diamineinks.co.uk/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731416568456,
+            "title": "accounting group assessment",
+            "icon": "https://logo.clearbit.com/ele.exeter.ac.uk",
+            "url": "https://ele.exeter.ac.uk/course/view.php?id=18021&section=3"
+          },
+          {
+            "type": "link",
+            "addDate": 1731543044029,
+            "title": "Exeter College : Your First Choice Ofsted Outstanding College",
+            "icon": "https://logo.clearbit.com/exe-coll.ac.uk",
+            "url": "https://exe-coll.ac.uk/"
           }
         ]
       },
@@ -2852,6 +2866,13 @@
             "url": "https://www.e-cigclouds.co.uk/brand/five-pawns/"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1702216390798,
+        "title": "Adobe Acrobat",
+        "icon": "https://logo.clearbit.com/acrobat.adobe.com",
+        "url": "https://acrobat.adobe.com/?x_api_client_id=bookmark&x_api_client_location=Reader"
       }
     ]
   }
