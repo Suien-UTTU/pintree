@@ -41,6 +41,13 @@
                 "title": "Approved Food | Save up to 70%!",
                 "icon": "https://logo.clearbit.com/approvedfood.co.uk",
                 "url": "https://approvedfood.co.uk/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737067663352,
+                "title": "Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more",
+                "icon": "https://logo.clearbit.com/www.amazon.co.uk",
+                "url": "https://www.amazon.co.uk/"
               }
             ]
           },
@@ -170,13 +177,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1714079263424,
-                "title": "iyouport | Substack",
-                "icon": "https://logo.clearbit.com/iyouport.substack.com",
-                "url": "https://iyouport.substack.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1663146300000,
                 "title": "hotukdeals - Your No.1 Deals & Discounts Community",
                 "icon": "https://logo.clearbit.com/www.hotukdeals.com",
@@ -246,13 +246,6 @@
             "title": "NeoDB - 主页",
             "icon": "https://logo.clearbit.com/neodb.social",
             "url": "https://neodb.social/users/suien/"
-          },
-          {
-            "type": "link",
-            "addDate": 1734123785233,
-            "title": "まじめにヤバシティ GOGOGO",
-            "icon": "https://logo.clearbit.com/maziyabacity.com",
-            "url": "https://maziyabacity.com/"
           },
           {
             "type": "link",
@@ -1763,6 +1756,13 @@
                 "title": "False Knees",
                 "icon": "https://logo.clearbit.com/falseknees.com",
                 "url": "https://falseknees.com/comics/447.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1737826468185,
+                "title": "nhentai: hentai doujinshi and manga",
+                "icon": "https://logo.clearbit.com/nhentai.net",
+                "url": "https://nhentai.net/"
               }
             ]
           },
@@ -1838,13 +1838,6 @@
           },
           {
             "type": "link",
-            "addDate": 1592484920064,
-            "title": "NewPipe | F-Droid - Free and Open Source Android App Repository",
-            "icon": "https://logo.clearbit.com/f-droid.org",
-            "url": "https://f-droid.org/packages/org.schabi.newpipe/"
-          },
-          {
-            "type": "link",
             "addDate": 1710077126306,
             "title": "Android向けアプリのダウンロード - Uptodownでダウンロード、発見、シェア",
             "icon": "https://logo.clearbit.com/jp.uptodown.com",
@@ -1891,6 +1884,13 @@
             "title": "【求职集散中心】| A curated list of 300 job boards. | Job Board Search: Alternatives to StackOverflow Jobs",
             "icon": "https://logo.clearbit.com/jobboardsearch.com",
             "url": "https://jobboardsearch.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737487773595,
+            "title": "F-Droid - Free and Open Source Android App Repository",
+            "icon": "https://logo.clearbit.com/f-droid.org",
+            "url": "https://f-droid.org/ja/"
           }
         ]
       },
