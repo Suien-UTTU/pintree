@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1625050253565,
+    "addDate": 1757200545996,
     "title": "书签栏",
     "children": [
       {
@@ -130,7 +130,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1625050373656,
+            "addDate": 1625674193161,
             "title": "小说",
             "children": [
               {
@@ -372,6 +372,13 @@
             "title": "DIGITIZATION.wiki",
             "icon": "https://logo.clearbit.com/www.digitization.wiki",
             "url": "https://www.digitization.wiki/"
+          },
+          {
+            "type": "link",
+            "addDate": 1756560866820,
+            "title": "nosleep",
+            "icon": "https://logo.clearbit.com/www.reddit.com",
+            "url": "https://www.reddit.com/r/nosleep/"
           }
         ]
       },
@@ -1868,6 +1875,13 @@
                 "title": "How To Become A Hacker",
                 "icon": "https://logo.clearbit.com/catb.org",
                 "url": "http://catb.org/~esr/faqs/hacker-howto.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1755228507814,
+                "title": "技巧 | 二次元要会点剪辑是生存技能熊",
+                "icon": "https://logo.clearbit.com/beebeebear.github.io",
+                "url": "https://beebeebear.github.io/p/videoeditinggameplayer/"
               }
             ]
           },
@@ -2941,6 +2955,34 @@
             "title": "自由手帐 Liberty Planner - 分隔页制作工具",
             "icon": "https://logo.clearbit.com/libertyplanner.cn",
             "url": "https://libertyplanner.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1755722393406,
+            "title": "Tooooools.app",
+            "icon": "https://logo.clearbit.com/www.tooooools.app",
+            "url": "https://www.tooooools.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1755923505690,
+            "title": "TextFX",
+            "icon": "https://logo.clearbit.com/textfx.withgoogle.com",
+            "url": "https://textfx.withgoogle.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1757122721038,
+            "title": "Online Video Downloader | All-in-one video downloader - Fast and Easy",
+            "icon": "https://logo.clearbit.com/ssvid.net",
+            "url": "https://ssvid.net/en"
+          },
+          {
+            "type": "link",
+            "addDate": 1757507510978,
+            "title": "Readest — Where You Read, Digest and Get Insight",
+            "icon": "https://logo.clearbit.com/web.readest.com",
+            "url": "https://web.readest.com/"
           }
         ]
       },
@@ -3235,6 +3277,20 @@
             "title": "Pintree",
             "icon": "https://logo.clearbit.com/suien-uttu.github.io",
             "url": "https://suien-uttu.github.io/pintree/"
+          },
+          {
+            "type": "link",
+            "addDate": 1753749804092,
+            "title": "catdog-1007-cs | 控制台",
+            "icon": "https://logo.clearbit.com/vat-panel.mutong1.com",
+            "url": "https://vat-panel.mutong1.com/server/392c93c5"
+          },
+          {
+            "type": "link",
+            "addDate": 1756650489266,
+            "title": "[2507.19218] Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness",
+            "icon": "https://logo.clearbit.com/arxiv.org",
+            "url": "https://arxiv.org/abs/2507.19218"
           }
         ]
       }
