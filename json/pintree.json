@@ -400,6 +400,13 @@
             "title": "Watch Global & Local Live TV Online for Free - tv.garden",
             "icon": "https://logo.clearbit.com/tv.garden",
             "url": "https://tv.garden/"
+          },
+          {
+            "type": "link",
+            "addDate": 1761174764817,
+            "title": "GitHub - DrewThomasson/ebook2audiobook：从电子书、语音克隆和 1107 种以上语言生成有声读物！",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/DrewThomasson/ebook2audiobook?tab=readme-ov-file#launching-gradio-web-interface"
           }
         ]
       },
@@ -1392,29 +1399,71 @@
                 "title": "爱琳图书馆-洛奇玩家基地",
                 "icon": "https://logo.clearbit.com/wiki.mabinogi.cc",
                 "url": "https://wiki.mabinogi.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1762765443735,
+                "title": "洛奇mabinogi中文维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司",
+                "icon": "https://logo.clearbit.com/luoqi.huijiwiki.com",
+                "url": "https://luoqi.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
+              },
+              {
+                "type": "link",
+                "addDate": 1763225135377,
+                "title": "Mabinogi奇幻世界",
+                "icon": "https://logo.clearbit.com/mabinogi.fws.tw",
+                "url": "https://mabinogi.fws.tw/index.php"
               }
             ]
           },
           {
-            "type": "link",
-            "addDate": 1708008033418,
-            "title": "猫国建设者 ",
-            "icon": "https://logo.clearbit.com/kittensgame.com",
-            "url": "https://kittensgame.com/web/#"
-          },
-          {
-            "type": "link",
-            "addDate": 1744112935817,
-            "title": "银河奶牛放置",
-            "icon": "https://logo.clearbit.com/www.milkywayidle.com",
-            "url": "https://www.milkywayidle.com/game?characterId=260206"
-          },
-          {
-            "type": "link",
-            "addDate": 1705635427685,
-            "title": "进化 - Evolve",
-            "icon": "https://logo.clearbit.com/g8hh.github.io",
-            "url": "https://g8hh.github.io/evolve/"
+            "type": "folder",
+            "addDate": 1760995699858,
+            "title": "放置",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1708008033418,
+                "title": "猫国建设者 ",
+                "icon": "https://logo.clearbit.com/kittensgame.com",
+                "url": "https://kittensgame.com/web/#"
+              },
+              {
+                "type": "link",
+                "addDate": 1705635427685,
+                "title": "进化 - Evolve",
+                "icon": "https://logo.clearbit.com/g8hh.github.io",
+                "url": "https://g8hh.github.io/evolve/"
+              },
+              {
+                "type": "link",
+                "addDate": 1759606524235,
+                "title": "🐱🐟猫猫放置",
+                "icon": "https://logo.clearbit.com/www.moyu-idle.com",
+                "url": "https://www.moyu-idle.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744112935817,
+                "title": "银河奶牛放置",
+                "icon": "https://logo.clearbit.com/www.milkywayidle.com",
+                "url": "https://www.milkywayidle.com/game?characterId=260206"
+              },
+              {
+                "type": "link",
+                "addDate": 1759606408495,
+                "title": "*PAUSED* Idle Loops",
+                "icon": "https://logo.clearbit.com/gltyx.github.io",
+                "url": "https://gltyx.github.io/omsi-loops/"
+              },
+              {
+                "type": "link",
+                "addDate": 1450955909996,
+                "title": "Dragon Cave - Enter the Cave",
+                "icon": "https://logo.clearbit.com/dragcave.net",
+                "url": "http://dragcave.net/"
+              }
+            ]
           },
           {
             "type": "link",
@@ -1436,13 +1485,6 @@
             "title": "Home | Flight Rising",
             "icon": "https://logo.clearbit.com/www1.flightrising.com",
             "url": "http://www1.flightrising.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1450955909996,
-            "title": "Dragon Cave - Enter the Cave",
-            "icon": "https://logo.clearbit.com/dragcave.net",
-            "url": "http://dragcave.net/"
           },
           {
             "type": "link",
@@ -1478,6 +1520,13 @@
             "title": "神撃のバハムート",
             "icon": "https://logo.clearbit.com/sp.pf.mbga.jp",
             "url": "http://sp.pf.mbga.jp/12007160"
+          },
+          {
+            "type": "link",
+            "addDate": 1760811393906,
+            "title": "TORN - Online RPG game - Free text based game",
+            "icon": "https://logo.clearbit.com/www.torn.com",
+            "url": "https://www.torn.com/"
           },
           {
             "type": "link",
@@ -1537,13 +1586,6 @@
           },
           {
             "type": "link",
-            "addDate": 1745098729385,
-            "title": "银河奶牛放置 - 多人放置游戏 - 收集、制作、战斗、交易，还有更多精彩！",
-            "icon": "https://logo.clearbit.com/www.milkywayidle.com",
-            "url": "https://www.milkywayidle.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1753749804092,
             "title": "catdog-1007-cs | 控制台",
             "icon": "https://logo.clearbit.com/vat-panel.mutong1.com",
@@ -1551,31 +1593,17 @@
           },
           {
             "type": "link",
-            "addDate": 1759606408495,
-            "title": "*PAUSED* Idle Loops",
-            "icon": "https://logo.clearbit.com/gltyx.github.io",
-            "url": "https://gltyx.github.io/omsi-loops/"
-          },
-          {
-            "type": "link",
-            "addDate": 1759606524235,
-            "title": "🐱🐟猫猫放置",
-            "icon": "https://logo.clearbit.com/www.moyu-idle.com",
-            "url": "https://www.moyu-idle.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1760811393906,
-            "title": "TORN - Online RPG game - Free text based game",
-            "icon": "https://logo.clearbit.com/www.torn.com",
-            "url": "https://www.torn.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1760038390496,
             "title": "Download java emulator for Windows PC | JavaEmulator.com",
             "icon": "https://logo.clearbit.com/www.javaemulator.com",
             "url": "https://www.javaemulator.com/java-emulator.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1761070618311,
+            "title": "第四境界 - ARG Shop",
+            "icon": "https://logo.clearbit.com/shop.daiyonkyokai.net",
+            "url": "https://shop.daiyonkyokai.net/"
           }
         ]
       },
@@ -1864,10 +1892,31 @@
               },
               {
                 "type": "link",
-                "addDate": 1726489799414,
-                "title": "Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。",
-                "icon": "https://logo.clearbit.com/zh.1lib.sk",
-                "url": "https://zh.1lib.sk/"
+                "addDate": 1762299517939,
+                "title": "圖書下載 – Open Books Hong Kong",
+                "icon": "https://logo.clearbit.com/openbookshongkong.com",
+                "url": "https://openbookshongkong.com/book/"
+              },
+              {
+                "type": "link",
+                "addDate": 1761215997138,
+                "title": "Z-Library – my page",
+                "icon": "https://logo.clearbit.com/z-library.la",
+                "url": "https://z-library.la/?ts=1339"
+              },
+              {
+                "type": "link",
+                "addDate": 1761857346078,
+                "title": "Z-Library – incase",
+                "icon": "https://logo.clearbit.com/z-library.la",
+                "url": "https://z-library.la/?ts=2345"
+              },
+              {
+                "type": "link",
+                "addDate": 1670101341613,
+                "title": "【短篇古代怪谈】No.51191637 - X岛匿名版",
+                "icon": "https://logo.clearbit.com/www.nmbxd1.com",
+                "url": "https://www.nmbxd1.com/m/t/51191637"
               }
             ]
           },
@@ -2043,6 +2092,27 @@
                 "title": "kazahana | Iwara",
                 "icon": "https://logo.clearbit.com/www.iwara.tv",
                 "url": "https://www.iwara.tv/profile/kazahana"
+              },
+              {
+                "type": "link",
+                "addDate": 1763307163995,
+                "title": "[FANBOX] Kamono Hashigo (~2025.11.16) - E-Hentai Galleries",
+                "icon": "https://logo.clearbit.com/e-hentai.org",
+                "url": "https://e-hentai.org/g/3640708/4da327b739/"
+              },
+              {
+                "type": "link",
+                "addDate": 1763311332975,
+                "title": "artist:yuzuha - E-Hentai Galleries",
+                "icon": "https://logo.clearbit.com/e-hentai.org",
+                "url": "https://e-hentai.org/tag/artist:yuzuha"
+              },
+              {
+                "type": "link",
+                "addDate": 1763311618133,
+                "title": "[村上水軍の館 (村上水軍)] バイブインパンツcompilation - E-Hentai Galleries",
+                "icon": "https://logo.clearbit.com/e-hentai.org",
+                "url": "https://e-hentai.org/g/3640819/b4c1d103af/"
               }
             ]
           },
@@ -2087,13 +2157,6 @@
             "title": "【毛象学术】GitHub - nathanlesage/academics-on-mastodon: A list of various lists consisting of academics on Mastodon",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/nathanlesage/academics-on-mastodon"
-          },
-          {
-            "type": "link",
-            "addDate": 1670101341613,
-            "title": "【短篇古代怪谈】No.51191637 - X岛匿名版",
-            "icon": "https://logo.clearbit.com/www.nmbxd1.com",
-            "url": "https://www.nmbxd1.com/m/t/51191637"
           },
           {
             "type": "link",
@@ -3354,6 +3417,13 @@
             "title": "리디캐시 충전 - 리디",
             "icon": "https://logo.clearbit.com/ridibooks.com",
             "url": "https://ridibooks.com/order/checkout/cash?b_ids%5B0%5D=6014000004&return_url=https%3A%2F%2Fridibooks.com%2Fpayment%2Frequest%2Fcash-and-point-auto%3Fb_ids%255B0%255D%3D6014000004%26return_url%3Dhttps%253A%252F%252Fridibooks.com%252Fbooks%252F6014000004%252Fview%26return_url_at_fail%3Dhttps%253A%252F%252Fridibooks.com%252Fbooks%252F6014000003%252Fview%26pay_object%3Drent%26_token%3DMTc1ODYyMTUzMnxjNGViMTE1YmQyZjRiYjA4NjE3MTQyZWYwMmVkZmYzMDJmZDk3ODYxODk1NmM5MTEzNjliYTQxOGMyMjFlNDBl&return_url_at_fail=https%3A%2F%2Fridibooks.com%2Fbooks%2F6014000003%2Fview"
+          },
+          {
+            "type": "link",
+            "addDate": 1761682276447,
+            "title": "[安科] [原创] 我和被我献祭的101个前任 NGA玩家社区",
+            "icon": "https://logo.clearbit.com/bbs.nga.cn",
+            "url": "https://bbs.nga.cn/read.php?tid=45435707&rand=149"
           }
         ]
       }
