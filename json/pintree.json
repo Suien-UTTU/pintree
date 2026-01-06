@@ -415,10 +415,17 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1630059043527,
-                "title": "艦隊これくしょん -艦これ- - オンラインゲーム - DMM GAMES",
-                "icon": "https://logo.clearbit.com/www.dmm.com",
-                "url": "http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/"
+                "addDate": 1767701929799,
+                "title": "ゲーム一覧 - オンラインゲーム - FANZA GAMES",
+                "icon": "https://logo.clearbit.com/library.games.dmm.co.jp",
+                "url": "https://library.games.dmm.co.jp/"
+              },
+              {
+                "type": "link",
+                "addDate": 1767701150725,
+                "title": "艦隊これくしょん -艦これ- - DMM GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/kancolle"
               },
               {
                 "type": "link",
@@ -429,38 +436,38 @@
               },
               {
                 "type": "link",
-                "addDate": 1711733973028,
+                "addDate": 1767701159889,
                 "title": "UNLIGHT:Revive - DMM GAMES",
-                "icon": "https://logo.clearbit.com/pc-play.games.dmm.com",
-                "url": "https://pc-play.games.dmm.com/play/unlight_revive/"
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/unlight_revive"
               },
               {
                 "type": "link",
-                "addDate": 1448904014775,
-                "title": "FLOWER KNIGHT GIRL - オンラインゲーム - DMM.com",
-                "icon": "https://logo.clearbit.com/www.dmm.com",
-                "url": "http://www.dmm.com/netgame/social/-/gadgets/=/app_id=738496/"
+                "addDate": 1767701865595,
+                "title": "FLOWER KNIGHT GIRL ～X指定～ - FANZA GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.co.jp",
+                "url": "https://play.games.dmm.co.jp/game/flower-x"
               },
               {
                 "type": "link",
-                "addDate": 1507716035819,
+                "addDate": 1767701869738,
+                "title": "千年戦争アイギス R - FANZA GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.co.jp",
+                "url": "https://play.games.dmm.co.jp/game/aigis"
+              },
+              {
+                "type": "link",
+                "addDate": 1767702007441,
+                "title": "御城プロジェクト:RE～CASTLE DEFENSE～ - DMM GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/oshirore"
+              },
+              {
+                "type": "link",
+                "addDate": 1767702009709,
                 "title": "文豪とアルケミスト - DMM GAMES",
-                "icon": "https://logo.clearbit.com/pc-play.games.dmm.com",
-                "url": "http://pc-play.games.dmm.com/play/bungo"
-              },
-              {
-                "type": "link",
-                "addDate": 1459266907970,
-                "title": "御城プロジェクト:RE～CASTLE DEFENSE～ - オンラインゲーム - DMM.com",
-                "icon": "https://logo.clearbit.com/www.dmm.com",
-                "url": "http://www.dmm.com/netgame/social/-/gadgets/=/app_id=777106/"
-              },
-              {
-                "type": "link",
-                "addDate": 1745197106365,
-                "title": "ゲーム一覧 - オンラインゲーム - DMM GAMES",
-                "icon": "https://logo.clearbit.com/library.games.dmm.com",
-                "url": "https://library.games.dmm.com/?_gl=1*1myx8wv*_gcl_au*MTcyNjA3ODMzMi4xNzQ1MTk3MDAx*FPAU*MTk1MjE0NjczNS4xNzQ1MTk2OTg1"
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/bungo"
               }
             ]
           },
