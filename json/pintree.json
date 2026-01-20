@@ -415,10 +415,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1767701929799,
-                "title": "ゲーム一覧 - オンラインゲーム - FANZA GAMES",
-                "icon": "https://logo.clearbit.com/library.games.dmm.co.jp",
-                "url": "https://library.games.dmm.co.jp/"
+                "addDate": 1768900030615,
+                "title": "ゲーム一覧 - オンラインゲーム - DMM GAMES",
+                "icon": "https://logo.clearbit.com/library.games.dmm.com",
+                "url": "https://library.games.dmm.com/?_gl=1*1f8fyjq*_gcl_au*MTEzNTYwNjM5MC4xNzY3MTkzNTE2*FPAU*MTEzNTYwNjM5MC4xNzY3MTkzNTE2"
               },
               {
                 "type": "link",
@@ -436,24 +436,17 @@
               },
               {
                 "type": "link",
+                "addDate": 1767702009709,
+                "title": "文豪とアルケミスト - DMM GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/bungo"
+              },
+              {
+                "type": "link",
                 "addDate": 1767701159889,
                 "title": "UNLIGHT:Revive - DMM GAMES",
                 "icon": "https://logo.clearbit.com/play.games.dmm.com",
                 "url": "https://play.games.dmm.com/game/unlight_revive"
-              },
-              {
-                "type": "link",
-                "addDate": 1767701865595,
-                "title": "FLOWER KNIGHT GIRL ～X指定～ - FANZA GAMES",
-                "icon": "https://logo.clearbit.com/play.games.dmm.co.jp",
-                "url": "https://play.games.dmm.co.jp/game/flower-x"
-              },
-              {
-                "type": "link",
-                "addDate": 1767701869738,
-                "title": "千年戦争アイギス R - FANZA GAMES",
-                "icon": "https://logo.clearbit.com/play.games.dmm.co.jp",
-                "url": "https://play.games.dmm.co.jp/game/aigis"
               },
               {
                 "type": "link",
@@ -464,10 +457,31 @@
               },
               {
                 "type": "link",
-                "addDate": 1767702009709,
-                "title": "文豪とアルケミスト - DMM GAMES",
+                "addDate": 1768900125801,
+                "title": "千年戦争アイギス - DMM GAMES",
                 "icon": "https://logo.clearbit.com/play.games.dmm.com",
-                "url": "https://play.games.dmm.com/game/bungo"
+                "url": "https://play.games.dmm.com/game/aigisc"
+              },
+              {
+                "type": "link",
+                "addDate": 1768900127963,
+                "title": "FLOWER KNIGHT GIRL - DMM GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/flower"
+              },
+              {
+                "type": "link",
+                "addDate": 1768900228695,
+                "title": "モンスター娘TD〜ボクは絶海の孤島でモン娘たちに溺愛されて困っています〜 - DMM GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/monmusutd"
+              },
+              {
+                "type": "link",
+                "addDate": 1768900104519,
+                "title": "毎日こつこつ俺タワー - DMM GAMES",
+                "icon": "https://logo.clearbit.com/play.games.dmm.com",
+                "url": "https://play.games.dmm.com/game/olesma"
               }
             ]
           },
@@ -2834,6 +2848,13 @@
                 "title": "【公式】うちのこメーカー | 猫イラストを無料で簡単作成！",
                 "icon": "https://logo.clearbit.com/uchinoko-maker.jp",
                 "url": "https://uchinoko-maker.jp/?continueFlag=b696c9488e90899c71b800df9e94950a"
+              },
+              {
+                "type": "link",
+                "addDate": 1767823293366,
+                "title": "どこかにいそうな人メーカー | Picrew - つくってあそべる画像メーカー",
+                "icon": "https://logo.clearbit.com/picrew.me",
+                "url": "https://picrew.me/ja/image_maker/2814100"
               }
             ]
           },
